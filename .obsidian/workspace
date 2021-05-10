@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "6da55966e5014ad6",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f50b78f078eb32e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "content/post/photo.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "818ff1d3ec7bdd26",
+    "type": "split",
+    "children": [
+      {
+        "id": "aef6099e98d639a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf43c0cd8f2c7894",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d55c7c263f0a9e59",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "341745589a249d1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "28489b1d87d817bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c67f4b9e8f784abc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/post/photo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7f50b78f078eb32e",
+  "lastOpenFiles": [
+    "content/post/photo.md",
+    "content/post/MAN.md",
+    "content/post/ferrero.md",
+    "themes/bento/archetypes/default.md"
+  ]
+}
